@@ -55,9 +55,13 @@ The card shows sum of units sold, offering a snapshot of overall sales performan
 
 **Apart from these visualizations created slicers and inserted bookmarks, buttons and images in the dashboard**
 
-Created 2 bookmarks : Page 1 and Page 2
+Added 2 bookmarks : Page 1 and Page 2
 
-Created one button in each page to navigate to page 1 and page 2 which is configured to bookmarks.
+Inserted one button in each page to navigate to page 1 and page 2 which is configured to bookmarks.
+
+Inserted an image in each page which indicates the "Entri" app.
+
+
 
 
 
